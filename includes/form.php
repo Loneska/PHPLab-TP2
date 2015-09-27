@@ -1,10 +1,4 @@
-<!DOCTYPE>
-<html>
-<head>
-	<title></title>
-</head>
 
-	<body>
 		<p>
 		    Tu aimerais intégrer le Cercle Infographie?<br />
 		    Si tu le veux bien, remplis d'abord ce petit formulaire afin qu'on en sache un peu plus sur toi ;-)
@@ -127,5 +121,4 @@
 		    </div>
 		</form>
 
-	</body>
-</html>
+	

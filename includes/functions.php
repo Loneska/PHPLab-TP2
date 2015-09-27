@@ -5,8 +5,6 @@
 		$form = array_map("strip_tags", $form);
 		$form = array_map("trim", $form);
 
-		var_dump($form);
-
 		if(empty($form)){
 			return false;
 		}
